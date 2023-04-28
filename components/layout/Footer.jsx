@@ -8,7 +8,7 @@ const Footer = () => {
         <section className="flex flex-col gap-y-14 xl:flex-row xl:justify-between">
           <div>
             <Image
-              src="/icons/logo.png"
+              src="/icons/Logo.png"
               width={100}
               height={100}
               alt="logo"
