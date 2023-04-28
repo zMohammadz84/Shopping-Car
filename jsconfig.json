@@ -1,7 +1,14 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "@components/*": ["./components/*"],
+      "@utils/*": ["./utils/*"],
+      "@templates/*": ["./components/templates/*"],
+      "@modules/*": ["./components/modules/*"],
+      "@public/*": ["./public/*"],
+      "@common/*": ["./components/common/*"],
+      "@services/*": ["./services/*"]
     }
   }
 }

@@ -1,0 +1,769 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "image": "/image/car.png",
+      "carName": "Koenigsegg",
+      "typeCar": "Sport",
+      "price": 99,
+      "capacity": "2 People",
+      "gasoline": "90L",
+      "steering": "Manual",
+      "description": "NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the race track.",
+      "discount": null,
+      "rating": 2.5,
+      "comments": [
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "/image/car1.png",
+      "carName": "Nissan GT - R",
+      "typeCar": "Sport",
+      "price": 100,
+      "capacity": "2 People",
+      "gasoline": "80L",
+      "steering": "Manual",
+      "description": "NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the race track.",
+      "discount": 20,
+      "rating": 3,
+      "comments": [
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "/image/car2.png",
+      "carName": "Rolls - Royce",
+      "typeCar": "Sedan",
+      "price": 96,
+      "capacity": "4 People",
+      "gasoline": "70L",
+      "steering": "Manual",
+      "description": "NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the race track.",
+      "discount": null,
+      "rating": 5,
+      "comments": [
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "/image/car3.png",
+      "carName": "Nissan GT - R",
+      "typeCar": "Sport",
+      "price": 80,
+      "capacity": "2 People",
+      "gasoline": "80L",
+      "steering": "Manual",
+      "description": "NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the race track.",
+      "discount": 20,
+      "rating": 4,
+      "comments": [
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "image": "/image/car4.png",
+      "carName": "All New Rush",
+      "typeCar": "SUV",
+      "price": 80,
+      "capacity": "6 People",
+      "gasoline": "70L",
+      "steering": "Manual",
+      "description": "NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the race track.",
+      "discount": 20,
+      "rating": 2.5,
+      "comments": [
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "/image/car5.png",
+      "carName": "CR  - V",
+      "typeCar": "SUV",
+      "price": 80,
+      "capacity": "4 People",
+      "gasoline": "80L",
+      "steering": "Manual",
+      "description": "NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the race track.",
+      "discount": null,
+      "rating": 5,
+      "comments": [
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "/image/car6.png",
+      "carName": "All New Terios",
+      "typeCar": "SUV",
+      "price": 74,
+      "capacity": "2 People",
+      "gasoline": "90L",
+      "steering": "Manual",
+      "description": "NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the race track.",
+      "discount": null,
+      "rating": 3,
+      "comments": [
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "/image/car7.png",
+      "carName": "CR  - V",
+      "typeCar": "SUV",
+      "price": 80,
+      "capacity": "6 People",
+      "gasoline": "80L",
+      "steering": "Manual",
+      "description": "NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the race track.",
+      "discount": null,
+      "rating": 3.5,
+      "comments": [
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "/image/car8.png",
+      "carName": "MG ZX Exclusice",
+      "typeCar": "Hatchback",
+      "price": 80,
+      "capacity": "4 People",
+      "gasoline": "70L",
+      "steering": "Manual",
+      "description": "NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the race track.",
+      "discount": 20,
+      "rating": 4.5,
+      "comments": [
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "/image/car9.png",
+      "carName": "New MG ZS",
+      "typeCar": "SUV",
+      "price": 80,
+      "capacity": "4 People",
+      "gasoline": "80L",
+      "steering": "Manual",
+      "description": "NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the race track.",
+      "discount": null,
+      "rating": 4,
+      "comments": [
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "/image/car10.png",
+      "carName": "MG ZX Excite",
+      "typeCar": "Hatchback",
+      "price": 74,
+      "capacity": "2 People",
+      "gasoline": "90L",
+      "steering": "Manual",
+      "description": "NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the race track.",
+      "discount": null,
+      "rating": 5,
+      "comments": [
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "/image/car11.png",
+      "carName": "New MG ZS",
+      "typeCar": "SUV",
+      "price": 80,
+      "capacity": "6 People",
+      "gasoline": "80L",
+      "steering": "Manual",
+      "description": "NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the race track.",
+      "discount": null,
+      "rating": 2.5,
+      "comments": [
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        },
+        {
+          "name": "Skylar Dias",
+          "occupation": "CEO at Amazon",
+          "date": "20 July 2022",
+          "rating": 3.5,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile2.png"
+        },
+        {
+          "name": "Alex Stanton",
+          "occupation": "CEO at Bukalapak",
+          "date": "21 July 2022",
+          "rating": 4,
+          "comment": "We are very happy with the service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite.",
+          "image": "/image/Profile.png"
+        }
+      ]
+    }
+  ]
+}
