@@ -63,15 +63,15 @@ const CarDetails = ({ car, cars }) => {
             <LikeCar car={car} />
           </header>
           <main>
-            <p className="text-primary-400 mt-5">{description}</p>
+            <p className="text-secondary-300 mt-5">{description}</p>
             <div className="grid grid-cols-4 mt-5 gap-3.5">
-              <span className="text-primary-400">TypeCar</span>
+              <span className="text-secondary-300">TypeCar</span>
               <span>{typeCar}</span>
-              <span className="text-primary-400">Capacity</span>
+              <span className="text-secondary-300">Capacity</span>
               <span>{capacity}</span>
-              <span className="text-primary-400">Steering</span>
+              <span className="text-secondary-300">Steering</span>
               <span>{steering}</span>
-              <span className="text-primary-400">Gasoline</span>
+              <span className="text-secondary-300">Gasoline</span>
               <span>{gasoline}</span>
             </div>
           </main>

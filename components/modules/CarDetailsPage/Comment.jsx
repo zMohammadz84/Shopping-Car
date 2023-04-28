@@ -5,7 +5,7 @@ const Comment = ({ comments }) => {
   return (
     <>
       {comments?.map((comment, index) => (
-        <div key={index} className="">
+        <div key={index}>
           <header className="flex justify-between items-center">
             <Image
               src={comment.image}
@@ -16,7 +16,7 @@ const Comment = ({ comments }) => {
             />
             <div className="flex flex-col gap-1 flex-1 ml-2">
               <h4>{comment.name}</h4>
-              <span className="text-primary-400 text-xs">
+              <span className="text-secondary-300 text-xs">
                 {comment.occupation}
               </span>
             </div>

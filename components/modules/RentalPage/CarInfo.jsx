@@ -184,9 +184,8 @@ const CarInfo = ({ image, carName, rating, comments, price }) => {
               <Input
                 label="Expration Date"
                 name="exprationDate"
-                placeholder="DD / MM / YY"
-                style={["p-4" , "bg-white"]}
-                type="time"
+                style={["p-4", "bg-white"]}
+                type="date"
               />
               <Input
                 label="Card Holder"
